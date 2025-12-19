@@ -5,7 +5,8 @@ import java.time.OffsetDateTime;
 
 public final class Asigancion {
 
-	 	private final long assignmentId;
+	 
+	private final long assignmentId;
 	    private final long userId;
 	    private final long deviceId;
 	    private final long siteId;
